@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the associated PSIDL paper when using this software."
+title: "PSIDL: Positive Selection Inference by Deep Learning"
+type: software
+version: 0.3.0
+date-released: 2026-10-28
+authors:
+  - family-names: Liu
+    given-names: Han
+  - family-names: Zhang
+    given-names: Hongjiu
+  - family-names: Zou
+    given-names: Zhengting
+abstract: "Positive selection inference from codon alignments."
